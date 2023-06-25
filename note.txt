@@ -1,0 +1,31 @@
+
+    <!-- <h1 class="bg-warning text-capitalize w-75 m-auto d-inline  text-end rounded border border-5 border-danger  ">hello world</h1>
+
+
+    <a href="">home</a> -->
+
+    <ul class="d-flex nav flex-row justify-content-end bg-warning align-items-center p-5">
+        <li>Home</li>
+        <li>Contact</li>
+        <li>About</li>
+        <button>click</button>
+    </ul>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-lg-4 bg-danger">1</div>
+            <div class="col-12 col-lg-4 bg-warning">2</div>
+            <div class="col-12 col-lg-4 bg-primary">3</div>
+        </div>
+    </div>
+
+    <h4 class="text-uppercase">hello</h4>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-sm-4 col-md-3 bg-success">first</div>
+            <div class="col-12 col-sm-4 col-md-3 bg-danger">second</div>
+            <div class="col-12 col-sm-2 col-md-3 bg-dark">third</div>
+            <div class="col-12 col-sm-2 col-md-3 bg-primary">fourth</div>
+        </div>
+    </div>
